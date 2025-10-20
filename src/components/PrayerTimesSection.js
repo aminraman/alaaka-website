@@ -168,16 +168,6 @@ export default function PrayerTimesSection() {
             <div className="flex justify-center mt-6 mb-4">
               <div className="swiper-pagination !static"></div>
             </div>
-
-            {/* Button BELOW the dots */}
-            <div className="text-center mt-6">
-              <button
-                onClick={() => alert("This will go to the monthly timetable page soon.")}
-                className="bg-green-700 hover:bg-green-600 text-white font-medium px-6 py-2 rounded-lg shadow transition"
-              >
-                View Monthly Timetable
-              </button>
-            </div>
           </>
         )}
       </div>

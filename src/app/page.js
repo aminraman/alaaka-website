@@ -56,7 +56,7 @@ export default function HomePage() {
 
           <div className="flex flex-col sm:flex-row justify-center md:justify-start gap-4">
             <Link
-              href="https://www.gofundme.com/f/alaaka-masjid"
+              href="https://gofund.me/c2e441d3"
               className="bg-yellow-400 text-black font-semibold px-8 py-3 rounded-md shadow hover:bg-yellow-500 transition"
             >
               Donate Now

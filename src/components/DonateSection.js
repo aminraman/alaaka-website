@@ -13,7 +13,7 @@ export default function DonatePage() {
         </p>
 
         <Link
-          href="https://www.gofundme.com/f/alaaka-masjid"
+          href="https://gofund.me/c2e441d3"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-yellow-500 text-black font-semibold px-8 py-3 rounded-lg shadow-md hover:bg-yellow-400 transition"
