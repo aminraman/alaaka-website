@@ -119,6 +119,11 @@ export default function HomePage() {
               title: "Weekly Classes & Lectures",
               desc: "Engage in continuous learning with our scholars and teachers.",
             },
+            {
+              src: "/images/hero10.jpg",
+              title: "Alaaka Association",
+              desc: "Our Imams and Leaders ",
+            },
           ].map((slide, i) => (
             <SwiperSlide key={i}>
               <div className="relative w-full h-[60vh] md:h-[75vh] cursor-pointer select-none">
