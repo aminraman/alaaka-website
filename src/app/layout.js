@@ -71,9 +71,9 @@ export default function RootLayout({ children }) {
       },
       telephone: "+1-973-555-1234",
       sameAs: [
-        "https://facebook.com",
+        "https://facebook.com/groups/1740587122890273/",
         "https://x.com",
-        "https://instagram.com",
+        "https://www.instagram.com/alaakaassociation?igsh=OHpoN2llY2xsdTgy",
       ],
       openingHours: "Mo-Su 05:00-22:00",
       parentOrganization: {
@@ -104,9 +104,9 @@ export default function RootLayout({ children }) {
       url: "https://alaaka.org",
       telephone: "+1-973-555-1234",
       sameAs: [
-        "https://facebook.com",
+        "https://facebook.com/groups/1740587122890273/",
         "https://x.com",
-        "https://instagram.com",
+        "https://www.instagram.com/alaakaassociation?igsh=OHpoN2llY2xsdTgy",
       ],
       openingHoursSpecification: [
         {
@@ -129,7 +129,7 @@ export default function RootLayout({ children }) {
       "@context": "https://schema.org",
       "@type": "Organization",
       name: "Alaaka Association of New Jersey",
-      url: "https://alaakaassociation.org",
+      url: "https://alaaka.org",
       logo: "https://alaaka.org/images/og-masjid.jpg",
       description:
         "Alaaka Association of New Jersey is a nonprofit organization dedicated to supporting the Muslim community through education, outreach, and religious programs. It operates Newark Central Masjid.",
@@ -141,9 +141,9 @@ export default function RootLayout({ children }) {
         availableLanguage: "English",
       },
       sameAs: [
-        "https://facebook.com",
+        "https://facebook.com/groups/1740587122890273/",
         "https://x.com",
-        "https://instagram.com",
+        "https://www.instagram.com/alaakaassociation?igsh=OHpoN2llY2xsdTgy",
       ],
     },
   ];
@@ -228,7 +228,7 @@ export default function RootLayout({ children }) {
                   <i className="fab fa-x-twitter"></i>
                 </Link>
                 <Link
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/alaakaassociation?igsh=OHpoN2llY2xsdTgy"
                   aria-label="Instagram"
                   target="_blank"
                   className="hover:text-green-400 transition"

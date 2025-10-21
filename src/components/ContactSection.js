@@ -78,7 +78,7 @@ export default function ContactSection() {
               <FaFacebookF className="text-lg" />
             </a>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/alaakaassociation?igsh=OHpoN2llY2xsdTgy"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-700 text-white p-3 rounded-full hover:bg-green-800 transition"
